@@ -1,0 +1,11 @@
+C:\Users\Victor\source\repos\ExamenCrud\ProyectoCruds.Models\bin\Debug\net6.0\ProyectoCruds.Models.deps.json
+C:\Users\Victor\source\repos\ExamenCrud\ProyectoCruds.Models\bin\Debug\net6.0\ProyectoCruds.Models.dll
+C:\Users\Victor\source\repos\ExamenCrud\ProyectoCruds.Models\bin\Debug\net6.0\ProyectoCruds.Models.pdb
+C:\Users\Victor\source\repos\ExamenCrud\ProyectoCruds.Models\obj\Debug\net6.0\ProyectoCruds.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\source\repos\ExamenCrud\ProyectoCruds.Models\obj\Debug\net6.0\ProyectoCruds.Models.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\ExamenCrud\ProyectoCruds.Models\obj\Debug\net6.0\ProyectoCruds.Models.AssemblyInfo.cs
+C:\Users\Victor\source\repos\ExamenCrud\ProyectoCruds.Models\obj\Debug\net6.0\ProyectoCruds.Models.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\ExamenCrud\ProyectoCruds.Models\obj\Debug\net6.0\ProyectoCruds.Models.dll
+C:\Users\Victor\source\repos\ExamenCrud\ProyectoCruds.Models\obj\Debug\net6.0\refint\ProyectoCruds.Models.dll
+C:\Users\Victor\source\repos\ExamenCrud\ProyectoCruds.Models\obj\Debug\net6.0\ProyectoCruds.Models.pdb
+C:\Users\Victor\source\repos\ExamenCrud\ProyectoCruds.Models\obj\Debug\net6.0\ref\ProyectoCruds.Models.dll

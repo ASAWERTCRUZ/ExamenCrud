@@ -1,0 +1,14 @@
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\bin\Debug\net6.0\ProeyectoCrud.DAL.deps.json
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\bin\Debug\net6.0\ProeyectoCrud.DAL.dll
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\bin\Debug\net6.0\ProeyectoCrud.DAL.pdb
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProeyectoCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProeyectoCrud.DAL.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProeyectoCrud.DAL.AssemblyInfo.cs
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProeyectoCrud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProeyectoCrud.DAL.dll
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\refint\ProeyectoCrud.DAL.dll
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProeyectoCrud.DAL.pdb
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ref\ProeyectoCrud.DAL.dll
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\bin\Debug\net6.0\ProeyectoCrud.DAL.runtimeconfig.json
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProeyectoCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProeyectoCrud.DAL.genruntimeconfig.cache
