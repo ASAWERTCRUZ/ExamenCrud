@@ -1,0 +1,5 @@
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProyectoCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProyectoCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProyectoCrud.DAL.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProyectoCrud.DAL.AssemblyInfo.cs
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProyectoCrud.DAL.csproj.CoreCompileInputs.cache
