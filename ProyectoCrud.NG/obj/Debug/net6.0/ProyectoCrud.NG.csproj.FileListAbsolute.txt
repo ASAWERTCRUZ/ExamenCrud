@@ -9,4 +9,7 @@ C:\Users\Victor\source\repos\ExamenCrud\ProyectoCrud.NG\obj\Debug\net6.0\Proyect
 C:\Users\Victor\source\repos\ExamenCrud\ProyectoCrud.NG\obj\Debug\net6.0\refint\ProyectoCrud.NG.dll
 C:\Users\Victor\source\repos\ExamenCrud\ProyectoCrud.NG\obj\Debug\net6.0\ProyectoCrud.NG.pdb
 C:\Users\Victor\source\repos\ExamenCrud\ProyectoCrud.NG\obj\Debug\net6.0\ref\ProyectoCrud.NG.dll
+<<<<<<< HEAD
 C:\Users\Victor\source\repos\ExamenCrud\ProyectoCrud.NG\obj\Debug\net6.0\ProyectoCrud.NG.csproj.AssemblyReference.cache
+=======
+>>>>>>> 5e1981b32fb254c40d553f903bcc421b8057369f

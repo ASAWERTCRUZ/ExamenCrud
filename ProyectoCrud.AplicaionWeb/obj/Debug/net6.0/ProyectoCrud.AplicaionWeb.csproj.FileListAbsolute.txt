@@ -28,4 +28,7 @@ C:\Users\Victor\source\repos\ExamenCrud\ProyectoCrud.AplicaionWeb\obj\Debug\net6
 C:\Users\Victor\source\repos\ExamenCrud\ProyectoCrud.AplicaionWeb\obj\Debug\net6.0\ProyectoCrud.AplicaionWeb.pdb
 C:\Users\Victor\source\repos\ExamenCrud\ProyectoCrud.AplicaionWeb\obj\Debug\net6.0\ProyectoCrud.AplicaionWeb.genruntimeconfig.cache
 C:\Users\Victor\source\repos\ExamenCrud\ProyectoCrud.AplicaionWeb\obj\Debug\net6.0\ref\ProyectoCrud.AplicaionWeb.dll
+<<<<<<< HEAD
 C:\Users\Victor\source\repos\ExamenCrud\ProyectoCrud.AplicaionWeb\obj\Debug\net6.0\ProyectoCrud.AplicaionWeb.csproj.AssemblyReference.cache
+=======
+>>>>>>> 5e1981b32fb254c40d553f903bcc421b8057369f
