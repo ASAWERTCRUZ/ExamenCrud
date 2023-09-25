@@ -1,5 +1,4 @@
-﻿using ProyectoCrud.DAL.Repositories;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,23 +6,17 @@ using System.Threading.Tasks;
 using ProeyectoCrud.Models;
 using ProeyectoCrud.DAL.DataContext;
 
-namespace ProyectoCrud.DAL.DataContext
+namespace ProyectoCrud.DAL.Repositories
 {
     internal class ContactoRepository : IGenericRepositorie<Usuario>
     {
 
         private readonly examenContext _examenContext;
 
-        public ContactoRepository(examenContext context) 
+        public ContactoRepository(examenContext context)
         {
             _examenContext = context;
         }
-
-        public ContactoRepository()
-        {
-                    
-        }
-
 
         public async Task<bool> Actualizar(Usuario modelo)
         {
@@ -55,7 +48,7 @@ namespace ProyectoCrud.DAL.DataContext
         public Task<IQueryable<Usuario>> ObtenerTodos()
         {
             IQueryable<Usuario> queryUsuarioSQL = _examenContext.Usuarios;
-            return queryUsuarioSQL;
+            return (Task<IQueryable<Usuario>>)queryUsuarioSQL;
         }
     }
 }
