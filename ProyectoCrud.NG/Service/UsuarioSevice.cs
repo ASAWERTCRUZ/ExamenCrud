@@ -1,51 +1,50 @@
 ﻿using ProeyectoCrud.Models;
-using System;
-using System.Collections.Generic;
+using ProyectoCrud.DAL.Repositories;
 using System.Linq;
-using System.Reflection.Emit;
-using System.Text;
 using System.Threading.Tasks;
+using ProeyectoCrud.Models;
 
 namespace ProyectoCrud.NG.Service
 {
-    internal class UsuarioSevice : IUsuarioService
-
+    internal class UsuarioService : IUsuarioService
     {
+        private readonly IGenericRepositorie<Usuario> _usuarioRepo;
 
-        public UsuarioSevice(IGenericRepositorie<Usuario>)
+        public UsuarioService(IGenericRepositorie<Usuario> usuarioRepo)
         {
-                
+            _usuarioRepo = usuarioRepo;
         }
 
-
-        public Task<bool> Actualizar(Usuario modelo)
+        public async Task<bool> Actualizar(Usuario modelo)
         {
-            throw new NotImplementedException();
+            return await _usuarioRepo.Actualizar(modelo);
         }
 
-        public Task<bool> Eliminar(int id)
+        public async Task<bool> Eliminar(int id)
         {
-            throw new NotImplementedException();
+            return await _usuarioRepo.Eliminar(id);
         }
 
-        public Task<bool> Insertar(Usuario modelo)
+        public async Task<bool> Insertar(Usuario modelo)
         {
-            throw new NotImplementedException();
+            return await _usuarioRepo.Insertar(modelo);
         }
 
-        public Task<Usuario> Obtener(int id)
+        public async Task<Usuario> Obtener(int id)
         {
-            throw new NotImplementedException();
+            return await _usuarioRepo.Obtener(id);
         }
 
-        public Task<Usuario> ObtenerPorNombre(int id)
+        public async Task<Usuario> ObtenerPorNombre(string nombreUsuario)
         {
-            throw new NotImplementedException();
+            IQueryable<Usuario> queryUsuarioSQL = await _usuarioRepo.ObtenerTodos();
+            Usuario usuario = queryUsuarioSQL.Where(c => c.Nombre == nombreUsuario).FirstOrDefault();
+            return usuario;
         }
 
-        public Task<IQueryable<Usuario>> ObtenerTodos()
+        public async Task<IQueryable<Usuario>> ObtenerTodos()
         {
-            throw new NotImplementedException();
+            return await _usuarioRepo.ObtenerTodos();
         }
     }
 }

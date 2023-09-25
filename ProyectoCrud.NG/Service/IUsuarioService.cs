@@ -25,7 +25,7 @@ namespace ProyectoCrud.NG.Service
         //Aca se hace la logica de negocios 
         //y tambien se da las operaciones por filtros y demas
 
-        Task<Usuario> ObtenerPorNombre(int id);
+        Task<Usuario> ObtenerPorNombre(string nombreUsuario);
 
     }
 }

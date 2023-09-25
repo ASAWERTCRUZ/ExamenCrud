@@ -1,6 +1,6 @@
 ﻿namespace ProyectoCrud.DAL.Repositories
 {
-    internal interface IGenericRepositorie<TEntityModel> where TEntityModel : class
+    public interface IGenericRepositorie<TEntityModel> where TEntityModel : class
     {
         //Metodos que se usaran para el contrato
 
