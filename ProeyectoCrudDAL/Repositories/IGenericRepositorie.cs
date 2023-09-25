@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ProyectoCrud.DAL.Repositories
+﻿namespace ProyectoCrud.DAL.Repositories
 {
     internal interface IGenericRepositorie<TEntityModel> where TEntityModel : class
     {
@@ -17,7 +10,7 @@ namespace ProyectoCrud.DAL.Repositories
         Task<bool> Actualizar(TEntityModel modelo);
         //eliminar
         Task<bool> Eliminar(int id);
-        
+
         Task<TEntityModel> Obtener(int id);
         //listar Modelo
         Task<IQueryable<TEntityModel>> ObtenerTodos();

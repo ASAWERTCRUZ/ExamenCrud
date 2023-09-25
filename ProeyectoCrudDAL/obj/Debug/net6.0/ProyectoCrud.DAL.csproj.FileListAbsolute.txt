@@ -3,3 +3,15 @@ C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\Proyec
 C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProyectoCrud.DAL.AssemblyInfoInputs.cache
 C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProyectoCrud.DAL.AssemblyInfo.cs
 C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProyectoCrud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\bin\Debug\net6.0\ProyectoCrud.DAL.deps.json
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\bin\Debug\net6.0\ProyectoCrud.DAL.runtimeconfig.json
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\bin\Debug\net6.0\ProyectoCrud.DAL.dll
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\bin\Debug\net6.0\ProyectoCrud.DAL.pdb
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\bin\Debug\net6.0\ProyectoCruds.Models.dll
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\bin\Debug\net6.0\ProyectoCruds.Models.pdb
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProyectoCrud.DAL.csproj.CopyComplete
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProyectoCrud.DAL.dll
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\refint\ProyectoCrud.DAL.dll
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProyectoCrud.DAL.pdb
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ProyectoCrud.DAL.genruntimeconfig.cache
+C:\Users\Victor\source\repos\ExamenCrud\ProeyectoCrudDAL\obj\Debug\net6.0\ref\ProyectoCrud.DAL.dll

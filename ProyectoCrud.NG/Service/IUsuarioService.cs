@@ -15,7 +15,7 @@ namespace ProyectoCrud.NG.Service
         Task<bool> Insertar(Usuario modelo);
         //actualizar modelo
         Task<bool> Actualizar(Usuario modelo);
-        //Usuario
+        //Elimar Modelos
         Task<bool> Eliminar(int id);
 
         Task<Usuario> Obtener(int id);

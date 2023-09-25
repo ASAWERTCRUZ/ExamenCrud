@@ -1,23 +1,21 @@
 ﻿using ProeyectoCrud.Models;
-using ProeyectoCrud.DAL.
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection.Emit;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ProyectoCrud.NG.Service
 {
-    public class UsuarioService : IUsuarioService
+    internal class UsuarioSevice : IUsuarioService
+
     {
-        private readonly IGenericRepositorie<Usuario> _usuarioRepo;
 
-        public UsuarioService(IGenericRepositorie<Usuario> usuarioRepo)
+        public UsuarioSevice(IGenericRepositorie<Usuario>)
         {
-            _usuarioRepo = usuarioRepo;
+                
         }
-
-
-
-
-
-
-
 
 
         public Task<bool> Actualizar(Usuario modelo)
